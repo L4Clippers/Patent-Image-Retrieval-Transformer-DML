@@ -37,21 +37,22 @@ If you use this code, please cite the following paper:
 - Pytorch Metric Learning
 - CUDA
 - CuDNN
-- Graphic board (worked at NVIDIA A6000*8)
 - FAISS
+- OpenCV
+- Graphic board (worked at NVIDIA A6000*8)
 
 ## Instllation
 ### Requisites
 - PyTorch Metric Learning
-  -  ``conda install -c conda-forge pytorch-metric-learning`` in Ubuntu 22.04 LTS
+  -  ``conda install -c conda-forge pytorch-metric-learning``
 - FAISS
-  -  ``conda install -c conda-forge faiss-gpu`` on conda in Ubuntu 22.04 LTS
+  -  ``conda install -c conda-forge faiss-gpu``
 ### Run
 - Jupyter Notebook
-  - Run this Notebook file in Ubuntu 22.04 LTS
+  - Run this Notebook file on Ubuntu 22.04 LTS
 
 ## Note
-- This repository contains the legendary version of the ArcFace implementation with the Python interface.
+- This repository contains the legendary version of the ArcFace implementation with the Python interface. [Code](https://github.com/ronghuaiyang/arcface-pytorch/blob/master/models/metrics.py)
 - We tested this notebook with Python3, on Ubuntu.
 
 ## Dataset
