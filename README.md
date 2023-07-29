@@ -6,7 +6,7 @@ The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, **Patent Imag
 
 ## Update(Jul 29, 2023)
 - Pre-training & Fine-tuning codes
-- Downloadable dataset(deeppatent) [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
+- DeepPatent dataset link [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
 
 ## Update(Feb 1, 2023)
 - Initial project "Patent Image Retrieval using Cross-entropy-based Metric Learning" was released. The paper was accepted to International Workshop on Frontiers of Computer Vision(IW-FCV). We achieved to search patent image without traditional IPC or CPC. [[PDF(IW-FCV)]](https://iwfcv2023.github.io/assets/Poster/P1-6%20Patent%20Image%20Retrieval%20Using%20Cross-entropy-based%20Metric%20Learning_Kotaro%20Higuchi.pdf) [[Poster(IW-FCV)]](https://mm.cs.uec.ac.jp/yanai/report/semiconf22/230222higuchi_14_ppt.pdf)
