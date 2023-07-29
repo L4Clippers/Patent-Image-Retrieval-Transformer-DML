@@ -2,7 +2,7 @@
 ## Summary
 The repository contains a Patent Image Retrieval, Transformer backbone, deep metric learning, and preprocessing in Python/PyTorch.
 
-The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, "Patent Image Retrieval Using Transformer-based Deep Metric Learning", World Patent Information [[PDF(IW-FCV)]](https://iwfcv2023.github.io/assets/Poster/P1-6%20Patent%20Image%20Retrieval%20Using%20Cross-entropy-based%20Metric%20Learning_Kotaro%20Higuchi.pdf) [PDF(WPI)] [Poster]
+The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, "Patent Image Retrieval Using Transformer-based Deep Metric Learning", World Patent Information [PDF(WPI)] [[PDF(IW-FCV)]](https://iwfcv2023.github.io/assets/Poster/P1-6%20Patent%20Image%20Retrieval%20Using%20Cross-entropy-based%20Metric%20Learning_Kotaro%20Higuchi.pdf) [Poster](https://mm.cs.uec.ac.jp/yanai/report/semiconf22/230222higuchi_14_ppt.pdf)
 
 ## Update(Jul. 29, 2023)
 - Pre-training & Fine-tuning codes
