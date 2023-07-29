@@ -2,11 +2,11 @@
 ## Summary
 The repository contains a Patent Image Retrieval, Transformer backbone, deep metric learning, and preprocessing in Python/PyTorch.
 
-The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, "Patent Image Retrieval Using Transformer-based Deep Metric Learning", World Patent Information [PDF(WPI)] [[PDF(IW-FCV)]](https://iwfcv2023.github.io/assets/Poster/P1-6%20Patent%20Image%20Retrieval%20Using%20Cross-entropy-based%20Metric%20Learning_Kotaro%20Higuchi.pdf) [[Poster(IW-FCV)]](https://mm.cs.uec.ac.jp/yanai/report/semiconf22/230222higuchi_14_ppt.pdf)
+The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, "**Patent Image Retrieval Using Transformer-based Deep Metric Learning**", World Patent Information(WPI) 2023. [PDF(WPI)] [[PDF(IW-FCV)]](https://iwfcv2023.github.io/assets/Poster/P1-6%20Patent%20Image%20Retrieval%20Using%20Cross-entropy-based%20Metric%20Learning_Kotaro%20Higuchi.pdf) [[Poster(IW-FCV)]](https://mm.cs.uec.ac.jp/yanai/report/semiconf22/230222higuchi_14_ppt.pdf)
 
 ## Update(Jul. 29, 2023)
 - Pre-training & Fine-tuning codes
-- Downloadable dataset(deeppatent) [Link]
+- Downloadable dataset(deeppatent) [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
 
 ## Citation
 If you use this code, please cite the following paper:
@@ -32,7 +32,7 @@ If you use this code, please cite the following paper:
 - Pytorch Metric Learning
 - CUDA
 - CuDNN
-- Graphic board (worked at NVIDIA A6000 * 8)
+- Graphic board (worked at NVIDIA A6000*8)
 
 ## Dataset
 If you would like to fine-tune on an conventional dataset, you must prepare the DeepPatent dataset.
