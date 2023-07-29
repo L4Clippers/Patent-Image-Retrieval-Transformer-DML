@@ -4,7 +4,8 @@ The repository contains a Patent Image Retrieval, Transformer backbone, deep met
 
 The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, **Patent Image Retrieval Using Transformer-based Deep Metric Learning**, World Patent Information(WPI) 2023. [PDF(WPI)] 
 
-## Update(Jul 29, 2023)
+## Update(Jul 21, 2023)
+- This project was accepted to World Patent Information. We achieved the State-Of-The-Art(SOTA) score of mAP in patent image retrieval.
 - Pre-training & Fine-tuning codes
 - DeepPatent link [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
 
