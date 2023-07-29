@@ -43,7 +43,7 @@ If you use this code, please cite the following paper:
 ## Instllation
 ### Requisites
 - PyTorch Metric Learning
-  **conda install -c conda-forge pytorch-metric-learning** for Ubuntu
+  ``conda install -c conda-forge pytorch-metric-learning`` for Ubuntu
 
 ## Dataset
 - If you would like to fine-tune on an conventional dataset, you must prepare the DeepPatent dataset. [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
