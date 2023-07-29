@@ -43,7 +43,16 @@ If you use this code, please cite the following paper:
 ## Instllation
 ### Requisites
 - PyTorch Metric Learning
-  ``conda install -c conda-forge pytorch-metric-learning`` for Ubuntu
+  -  ``conda install -c conda-forge pytorch-metric-learning`` in Ubuntu 22.04 LTS
+- FAISS
+  -  ``conda install -c conda-forge faiss-gpu`` on conda in Ubuntu 22.04 LTS
+### Run
+- Jupyter Notebook
+  - Run this Notebook file in Ubuntu 22.04 LTS
+
+## Note
+- This repository contains the legendary version of the ArcFace implementation with the Python interface.
+- We tested this notebook with Python3, on Ubuntu.
 
 ## Dataset
 - If you would like to fine-tune on an conventional dataset, you must prepare the DeepPatent dataset. [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
