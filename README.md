@@ -11,7 +11,8 @@ The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, "", World Pat
 ## Citation
 If you use this code, please cite the following paper:
 
-```@article{HiguchiWPI2023,
+```
+@article{HiguchiWPI2023,
   author={Higuchi, Kotaro and Yanai, Keiji},
   title={Patent Image Retrieval Using Transformer-based Deep Metric Learning},
   booktitle={World Patent Information(WPI)},
