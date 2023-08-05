@@ -60,4 +60,4 @@ If you use this code, please cite the following paper:
 - Same test/val/train split as the DeepPatent dataset
 
 ## Terms of use
-The authors affiliated in The University of Electro-Communications(UEC) are not responsible for the reproduction, duplication, copy, sale, trade, resell or exploitation for any commercial purposes, of any portion of the images and any portion of derived the data. In no event will we be also liable for any other damages resulting from this data or any derived data.
+The author affiliated in The University of Electro-Communications(UEC) and Japan Patent Office(JPO) are not responsible for the reproduction, duplication, copy, sale, trade, resell or exploitation for any commercial purposes, of any portion of the images and any portion of derived the data. In no event will we be also liable for any other damages resulting from this data or any derived data.
