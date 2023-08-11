@@ -58,6 +58,7 @@ If you use this code, please cite the following paper:
 ## Note
 - This repository contains the legendary version of the ArcFace implementation with the Python interface. [Code](https://github.com/ronghuaiyang/arcface-pytorch/blob/master/models/metrics.py)
 - We tested this notebook with Python3, on Ubuntu.
+- Patlist is from DeepPatent dataset. It teaches the path to the substantial dataset.
 
 ## Dataset
 - If you would like to fine-tune on an conventional dataset, you must prepare the DeepPatent dataset. [[Project]](https://github.com/GoFigure-LANL/DeepPatent-dataset)
