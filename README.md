@@ -1,4 +1,5 @@
 # Patent Image Retrieval
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/patent-image-retrieval-using-cross-entropy/image-retrieval-on-deeppatent)](https://paperswithcode.com/sota/image-retrieval-on-deeppatent?p=patent-image-retrieval-using-cross-entropy)
 ## Summary
 The repository contains a Patent Image Retrieval, Transformer backbone, deep metric learning, and preprocessing in Python/PyTorch.
 
