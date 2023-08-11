@@ -3,7 +3,7 @@
 ## Summary
 The repository contains a Patent Image Retrieval, Transformer backbone, deep metric learning, and preprocessing in Python/PyTorch.
 
-The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, **Patent Image Retrieval Using Transformer-based Deep Metric Learning**, World Patent Information(WPI) 2023. [PDF(WPI)] 
+The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, **Patent Image Retrieval Using Transformer-based Deep Metric Learning**, World Patent Information(WPI) 2023. [[Abstract(WPI)]](https://www.sciencedirect.com/science/article/abs/pii/S0172219023000479) 
 
 ## Update(Jul 21, 2023)
 - This project was accepted to World Patent Information. We achieved the State-Of-The-Art(SOTA) score of mAP in patent image retrieval. [[PDF]] [[Code]](https://github.com/L4Clippers/Patent-Image-Retrieval-Transformer-DML/blob/main/20230110_ArcFace-DPat-SwinV2_v38_384RandCrop.ipynb)
