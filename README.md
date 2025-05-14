@@ -6,6 +6,9 @@ The repository contains a Patent Image Retrieval, Transformer backbone, deep met
 
 The repository is based on the paper: Kotaro Higuchi, Keiji Yanai, **Patent Image Retrieval Using Transformer-based Deep Metric Learning**, World Patent Information(WPI) 2023. [[Abstract(WPI)]](https://www.sciencedirect.com/science/article/abs/pii/S0172219023000479) 
 
+## Update(Apr 30, 2025)
+- Our research has been published in the following [[book]]([https://www.dropbox.com/scl/fo/n3tjkvsxfmi7cvacei6wj/h?rlkey=xf5686zlzmlkkhr8k3eajxo8k&dl=0](https://www.gijutu.co.jp/doc/b_2292.htm)).
+
 ## Update(Dec 17, 2023)
 - Our pre-trained models are available at this following [[link]](https://www.dropbox.com/scl/fo/n3tjkvsxfmi7cvacei6wj/h?rlkey=xf5686zlzmlkkhr8k3eajxo8k&dl=0).
 
