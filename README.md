@@ -1,7 +1,7 @@
 # Patent Image Retrieval
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/patent-image-retrieval-using-transformer/image-retrieval-on-deeppatent)](https://paperswithcode.com/sota/image-retrieval-on-deeppatent?p=patent-image-retrieval-using-transformer)
 
-[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-patent--image--retrieval-blue)](https://paperswithcode.com/paper/patent-image-retrieval-using-transformer)
+[![State of the Art](https://img.shields.io/badge/State%20of%20the%20Art-Image--Retrieval--on--DeepPatent-#21F0F3)](https://paperswithcode.com/paper/patent-image-retrieval-using-transformer)
 
 ## Summary
 The repository contains a Patent Image Retrieval, Transformer backbone, deep metric learning, and preprocessing in Python/PyTorch.
