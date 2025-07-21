@@ -1,7 +1,6 @@
 # Patent Image Retrieval
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/patent-image-retrieval-using-transformer/image-retrieval-on-deeppatent)](https://paperswithcode.com/sota/image-retrieval-on-deeppatent?p=patent-image-retrieval-using-transformer)
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiMyMUYwRjMiIGQ9Ik04OCwxMjhoNDh2MjU2SDg4VjEyOHogTTIzMiwxMjhoNDh2MjU2aC00OFYxMjh6IE0xNjAsMTQ0aDQ4djIyNGgtNDhWMTQ0eiBNMzA0LDE0NGg0OHYyMjRoLTQ4VjE0NHogTTM3NiwxMjggaDQ4djI1NmgtNDhWMTI4eiIvPjxwYXRoIGZpbGw9IiMyMUYwRjMiIGQ9Ik0xMDQsMTA0VjU2SDE2djQwMGg4OHYtNDhINjRWMTA0SDEwNHogTTQwOCw1NnY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2SDQwOHoiLz48L3N2Zz4=" alt="Papers with Code" width="24" height="24">
 [![PWC](https://img.shields.io/badge/State%20of%20the%20Art-Image%20Retrieval%20on%20DeepPatent-21b3b6)](https://paperswithcode.com/paper/patent-image-retrieval-using-transformer)
 
 ## Summary
