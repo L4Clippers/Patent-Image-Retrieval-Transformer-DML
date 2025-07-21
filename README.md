@@ -1,12 +1,6 @@
 # Patent Image Retrieval
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/patent-image-retrieval-using-transformer/image-retrieval-on-deeppatent)](https://paperswithcode.com/sota/image-retrieval-on-deeppatent?p=patent-image-retrieval-using-transformer)
 
-<div align="center">
-  <svg width="48" height="48" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#21F0F3" d="M88,128h48v256H88V128z M232,128h48v256h-48V128z M160,144h48v224h-48V144z M304,144h48v224h-48V144z M376,128 h48v256h-48V128z"/>
-    <path fill="#21F0F3" d="M104,104V56H16v400h88v-48H64V104H104z M408,56v48h40v304h-40v48h88V56H408z"/>
-  </svg>
-</div>
 [![PWC](https://img.shields.io/badge/State%20of%20the%20Art-Image%20Retrieval%20on%20DeepPatent-21b3b6)](https://paperswithcode.com/paper/patent-image-retrieval-using-transformer)
 
 ## Summary
