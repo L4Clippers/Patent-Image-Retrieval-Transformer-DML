@@ -1,6 +1,5 @@
 # Patent Image Retrieval
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/patent-image-retrieval-using-transformer/image-retrieval-on-deeppatent)](https://paperswithcode.com/sota/image-retrieval-on-deeppatent?p=patent-image-retrieval-using-transformer)
-
 [![State of the Art](https://img.shields.io/badge/State%20of%20the%20Art-Image--Retrieval--on--DeepPatent-21f0f3)](https://paperswithcode.com/paper/patent-image-retrieval-using-transformer)
 
 ## Summary
