@@ -7,7 +7,7 @@
     <path fill="#21F0F3" d="M88,128h48v256H88V128z M232,128h48v256h-48V128z M160,144h48v224h-48V144z M304,144h48v224h-48V144z M376,128 h48v256h-48V128z"/>
     <path fill="#21F0F3" d="M104,104V56H16v400h88v-48H64V104H104z M408,56v48h40v304h-40v48h88V56H408z"/>
   </svg>
-</a>**Image Retrieval on DeepPatent**
+</a> **Image Retrieval on DeepPatent**
 
 [![PWC](https://img.shields.io/badge/State%20of%20the%20Art-Image%20Retrieval%20on%20DeepPatent-21b3b6)](https://paperswithcode.com/paper/patent-image-retrieval-using-transformer)
 
